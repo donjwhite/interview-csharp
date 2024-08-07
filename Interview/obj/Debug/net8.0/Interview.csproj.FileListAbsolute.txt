@@ -1,0 +1,11 @@
+C:\Users\bhumphreys\source\repos\Interview\Interview\bin\Debug\net8.0\Interview.deps.json
+C:\Users\bhumphreys\source\repos\Interview\Interview\bin\Debug\net8.0\Interview.dll
+C:\Users\bhumphreys\source\repos\Interview\Interview\bin\Debug\net8.0\Interview.pdb
+C:\Users\bhumphreys\source\repos\Interview\Interview\obj\Debug\net8.0\Interview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhumphreys\source\repos\Interview\Interview\obj\Debug\net8.0\Interview.AssemblyInfoInputs.cache
+C:\Users\bhumphreys\source\repos\Interview\Interview\obj\Debug\net8.0\Interview.AssemblyInfo.cs
+C:\Users\bhumphreys\source\repos\Interview\Interview\obj\Debug\net8.0\Interview.csproj.CoreCompileInputs.cache
+C:\Users\bhumphreys\source\repos\Interview\Interview\obj\Debug\net8.0\Interview.dll
+C:\Users\bhumphreys\source\repos\Interview\Interview\obj\Debug\net8.0\refint\Interview.dll
+C:\Users\bhumphreys\source\repos\Interview\Interview\obj\Debug\net8.0\Interview.pdb
+C:\Users\bhumphreys\source\repos\Interview\Interview\obj\Debug\net8.0\ref\Interview.dll

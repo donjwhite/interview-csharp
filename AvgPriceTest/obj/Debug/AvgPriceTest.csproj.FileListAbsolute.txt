@@ -1,0 +1,2 @@
+C:\Users\bhumphreys\source\repos\Interview\AvgPriceTest\obj\Debug\AvgPriceTest.csproj.AssemblyReference.cache
+C:\Users\bhumphreys\source\repos\Interview\AvgPriceTest\obj\Debug\AvgPriceTest.csproj.CoreCompileInputs.cache
